@@ -5,6 +5,7 @@ pip install opencv-contrib-py
 pip install  opencv-python
 pip intall nanotime
 ## Demo
+By running realtime_iir_main.py a demonstration of a real-time measurement can be seen.
 
 __bold__ dd
 *italics*

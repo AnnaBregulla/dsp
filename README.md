@@ -3,7 +3,7 @@ Measurement of the stroke frequency of a guitar player by using the RGB light se
 ![Alt text](https://github.com/AnnaBregulla/dsp/blob/IIR-Assignment/guitar.jpg)
 ![Alt text](https://github.com/AnnaBregulla/dsp/blob/IIR-Assignment/set-up.jpg)
 ## Prerequisites
-pip install opencv-contrib-py
+pip install opencv-contrib-py\n
 pip install  opencv-python
 pip intall nanotime
 ## Classes

@@ -1,5 +1,5 @@
 # IIR Assignment
-Measure the stroke frequency of a guitar player by using the RGB light sensor of a laptop.
+Measurement of the stroke frequency of a guitar player by using the RGB light sensor of a laptop.
 ![Alt text](https://github.com/AnnaBregulla/dsp/blob/IIR-Assignment/guitar.jpg)
 ![Alt text](https://github.com/AnnaBregulla/dsp/blob/IIR-Assignment/set-up.jpg)
 ## Prerequisites
